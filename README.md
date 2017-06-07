@@ -1,2 +1,2 @@
-# Calcolatrice
-Il programma simula una calcolatrice con le 4 operazioni con la possibità di utilizzare il calcolo in cascata e l'inserimento da tastiera.
+# CalcolatriceV3
+La calcoltrice versione 3 oltre ad essere gestita con i tasti in html ha la possibilità di inserire le cifre da tastiera.
